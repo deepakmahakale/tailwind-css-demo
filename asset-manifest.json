@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deepakmahakale.in/tailwind-css-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/deepakmahakale.in/tailwind-css-demo/static/js/main.754e3e78.chunk.js",
+    "main.js.map": "/deepakmahakale.in/tailwind-css-demo/static/js/main.754e3e78.chunk.js.map",
+    "runtime-main.js": "/deepakmahakale.in/tailwind-css-demo/static/js/runtime-main.aca302a5.js",
+    "runtime-main.js.map": "/deepakmahakale.in/tailwind-css-demo/static/js/runtime-main.aca302a5.js.map",
+    "static/js/2.5d49d44a.chunk.js": "/deepakmahakale.in/tailwind-css-demo/static/js/2.5d49d44a.chunk.js",
+    "static/js/2.5d49d44a.chunk.js.map": "/deepakmahakale.in/tailwind-css-demo/static/js/2.5d49d44a.chunk.js.map",
+    "static/js/3.6b1c1d76.chunk.js": "/deepakmahakale.in/tailwind-css-demo/static/js/3.6b1c1d76.chunk.js",
+    "static/js/3.6b1c1d76.chunk.js.map": "/deepakmahakale.in/tailwind-css-demo/static/js/3.6b1c1d76.chunk.js.map",
+    "index.html": "/deepakmahakale.in/tailwind-css-demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/deepakmahakale.in/tailwind-css-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5d49d44a.chunk.js.LICENSE.txt": "/deepakmahakale.in/tailwind-css-demo/static/js/2.5d49d44a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deepakmahakale.in/tailwind-css-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aca302a5.js",
+    "static/js/2.5d49d44a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.754e3e78.chunk.js"
+  ]
+}
